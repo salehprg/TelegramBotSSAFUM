@@ -1,0 +1,8 @@
+bin/
+obj/
+__pycache__/
+out/
+.vs/
+Bot/botsession/
+Bot/mainsession/
+Bot/session_*
